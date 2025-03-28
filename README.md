@@ -3,20 +3,31 @@ Welcome to the FAST CFD Campus Helping Materials and Past Papers Repository! Thi
 Naming Guidelines
 Folders:
 Use the following naming format for course folders:
+
+
 <Course_Code> - <Course_Name> (e.g., CS101 - Introduction to Programming).
 
 Files:
-Past papers: <Course_Code>_<Exam_Type>_<Year>_<Solved/Unsolved>.pdf
+Past papers: 
+
+<Course_Code>_<Exam_Type>_<Year>_<Solved/Unsolved>.pdf
 Example: CS101_Midterm_2023_Solved.pdf
+
+
 Lecture notes: <Week_Number>_<Topic>.pdf
 Example: Week3_Loops_and_Conditions.pdf
+
+
 Assignments: <AssignmentNumber>_<Type>.pdf
 Example: Assignment3_Solution.pdf
+
 Other Materials:
+
+
 Include a descriptive title.
 Example: Common_Mistakes_in_Circuit_Design.pdf
 
-🤝 Contribution Guide
+# **🤝 Contribution Guide**
 
 We highly encourage contributions to make this repository richer and more useful. Please follow these steps:
 
@@ -35,7 +46,7 @@ After you have added everything, you need to open a Pull Request to the parent r
 You can do this by contributing to parent repository:
 ![image](https://github.com/user-attachments/assets/d1bc5130-7e6d-45e5-90f5-b651bc6e4a19)
 
-❌ What Not to Do
+# ❌ What Not to Do
 
 Do not upload irrelevant materials (e.g., personal notes unrelated to the course).
 
@@ -43,7 +54,7 @@ Do not use vague file names (e.g., Paper1.pdf or Notes.pdf).
 
 Do not duplicate files. Check before uploading.
 
-📜 License
+# 📜 License
 
 This repository is distributed under the MIT License. Materials are for educational purposes only. Proper attribution to contributors is appreciated.
 
