@@ -6,7 +6,6 @@ Use the following naming format for course folders:
 <Course_Code> - <Course_Name> (e.g., CS101 - Introduction to Programming).
 
 Files:
-
 Past papers: <Course_Code>_<Exam_Type>_<Year>_<Solved/Unsolved>.pdf
 Example: CS101_Midterm_2023_Solved.pdf
 Lecture notes: <Week_Number>_<Topic>.pdf
